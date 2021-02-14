@@ -1,2 +1,3 @@
-# Semana3_1_IsaacFernandez
-Parte 1
+# Semana3_1_Isaac_Fernandez
+Test Repo QA Automation
+
